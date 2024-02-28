@@ -23,7 +23,7 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Real State Web App(MERN)"
+              title="Real Estate Web App(MERN)"
               description="My Real Estate Management Web Application, powered by the MERN stack, Redux, JWT, and Firebase, revolutionizes property management. Users navigate a user-friendly interface to browse comprehensive property listings with detailed descriptions, images, and amenities. Robust user authentication via JWT ensures secure access, while Redux manages state efficiently."
               ghLink="https://github.com/Arijeet04/MERNState"
             />
